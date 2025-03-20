@@ -1,12 +1,12 @@
 #include <string>
 #include <iostream>
-using namespace std;
+
 
 
 int main()
 {
-string name;
-cin>>name;
+std::string name;
+std::cin>>name;
 
-cout<<"hello world from  "<< name <<endl;
+std::cout<<"hello world from  "<< name <<std::endl;
 }
