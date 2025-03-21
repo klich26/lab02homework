@@ -7,7 +7,7 @@ int main()
     // enter a name
     //вводим имя
     std::cin >> name;
-
+	//проверка на ошибку 
     // print name
     //выводим приветсвие от @name
     
