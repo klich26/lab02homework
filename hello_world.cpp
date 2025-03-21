@@ -10,6 +10,6 @@ int main()
 	//проверка на ошибку 
     // print name
     //выводим приветсвие от @name
-    
+	//1231241    
     std::cout << "hello world from " << name << std::endl;
 }
